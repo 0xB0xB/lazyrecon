@@ -2,7 +2,7 @@ export HOMEUSER=
 export HOMEDIR=
 export STORAGEDIR=${HOMEDIR}/lazytargets
 
-export GITHUBTOKEN=
+export GITHUBTOKEN="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"
 export DISCORDWEBHOOKURL="https://discord.com/api/webhooks/915726080290209792/X83lPlCI1PsP4EazXqTgo9aTRMoPQFkJFTPFLl8XYYssvtHyW_Fd6hTIUmi5TYEeKQGl"
 
 export CUSTOMHEADER=''
